@@ -45,7 +45,7 @@
     "webpack-dev-server": "1.6.5"
   },
   "peerDependencies": {
-    "react": "0.12.x"
+    "react": "^0.13.0-beta.1"
   },
   "dependencies": {
     "qs": "2.2.2",
